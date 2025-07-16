@@ -10,6 +10,14 @@
 QMsolve seeks to provide a solid and easy to use solver, capable of solving the Schrödinger equation for one and two particles, 
 and creating descriptive and stunning visualizations of its solutions both in 1D, 2D, and 3D.
 
+## 🔁 Fork Notice
+
+This project is based on the original [`qmsolve`](https://github.com/Quantum-Future/qmsolve) repository by [Quantum-Future](https://github.com/Quantum-Future), which provides an excellent foundation for quantum mechanics simulations in Python.
+
+This fork was extended and adapted by [@georgia-pj](https://github.com/georgia-pj) for educational and project purposes, specifically to model anharmonic potentials and apply the tool in senior thesis research.
+
+All credit for the original solver structure and API design goes to the original authors.
+
 
 ## Installation
 
